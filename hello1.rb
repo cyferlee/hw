@@ -1,0 +1,1 @@
+system("mruby", "hello.mrb")
